@@ -6,7 +6,7 @@ Air samples of different locations were taken and then five features of the air 
 
 **Goal** : Design a machine learning model which can predict air quality index for testing data.
 
-### 1. Diabetes Challenge 
+### 2. Diabetes Challenge 
         - Technology used : K-Nearest Neighbor Classification
 <img src="./Images/diabetes.png" width="120" height="120">
 In this problem you are given a Diabetes Data set consisting of following features - ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome'] The task is to predict whether a person is suffering from diabetes or not (Binary Classification)
